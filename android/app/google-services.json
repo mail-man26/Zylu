@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496252375384",
+    "firebase_url": "https://gps4-4354d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gps4-4354d",
+    "storage_bucket": "gps4-4354d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496252375384:android:a1083babb51ae2bc62552d",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496252375384-rt4lbbvdaq1vf0rju9vfoirtu00he8n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6YrKrsityn9RLxw1SRh_sKjVGgaKuUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496252375384-rt4lbbvdaq1vf0rju9vfoirtu00he8n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
