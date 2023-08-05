@@ -1,6 +1,15 @@
-# fb
+# Car List Identifier
 
 A new Flutter project.
+The Backend of this project is handled by Firebase with information in the form of:-
+
+Name : String
+Mileage: Number
+Age: Number
+ImageUrl: String
+
+![WhatsApp Image 2023-08-05 at 6 54 38 AM](https://github.com/mail-man26/Zylu/assets/70205280/b46275b1-2175-40ef-a520-ada8b5804605)
+
 
 ## Getting Started
 
